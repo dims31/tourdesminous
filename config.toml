@@ -33,10 +33,10 @@ disqusShortname = "blog-dimlab-fr"
   strava = "90502197"
 
 # Menu Part
-[[menu.main]]
-  name = 'Posts'
-  pageRef = '/post'
-  weight = 1
+# [[menu.main]]
+#   name = 'Posts'
+#   pageRef = '/post'
+#   weight = 1
 [[menu.main]]
   name = 'A Propos'
   pageRef = '/about/index'
@@ -46,8 +46,10 @@ disqusShortname = "blog-dimlab-fr"
   pageRef = '/preparatifs'
   weight = 50
 [[menu.main]]
-  name = 'Santé'
-  pageRef = '/preparatifs/sante'
-  parent = 'Préparatifs'
+  name = 'Destinations'
+  weight = 20
+  [[menu.main]]
+  name = 'Guadeloupe'
+pageRef = '/tags/guadeloupe'
+  parent = 'Destinations'
   weight = 50
-
