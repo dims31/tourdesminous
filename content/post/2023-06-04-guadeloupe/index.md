@@ -2,6 +2,7 @@
 title: "2 semaines en Guadeloupe"
 date: 2023-04-30T17:39:07+02:00
 bigimg: [{src: "nous.jpg"}]
+image: "2023-06-04-guadeloupe/nous.jpg"
 summary: "Entre eau turquoise et rhum, 2 semaines exceptionneles"
 tags: ["guadeloupe","caraibes"]
 ---
