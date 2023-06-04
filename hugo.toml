@@ -4,27 +4,27 @@ title = "Tour des minous"
 theme = "beautifulhugo"
 
 [Params]
-  homeTitle = "Tour des minous" # Set a different text for the header on the home page
-  subtitle = "Un soustitre"
+  #homeTitle = "Tour des minous" # Set a different text for the header on the home page
+  # subtitle = "Un soustitre"
   mainSections = ["post","posts"]
-  logo = "images/logo-no-background.png" # Expecting square dimensions
+  hideAuthor = true
+  logo = "img/logo-black.svg" # Expecting square dimensions
   # favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
-  commit = false
-  rss = true
-  comments = true
-  readingTime = true
-  wordCount = true
-  useHLJS = true
-  socialShare = true
-  delayDisqus = true
-  showRelatedPosts = true
+#   commit = false
+#   rss = true
+#   comments = true
+#   readingTime = true
+#   wordCount = true
+#   useHLJS = true
+#   socialShare = true
+#   delayDisqus = true
+#   showRelatedPosts = true
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
+[[Params.bigimg]]
+ src = "img/home_back.jpg"
+ desc = "Triangle"
 #[[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
@@ -35,54 +35,26 @@ theme = "beautifulhugo"
 #  desc = "Hexagon"
 
 [Author]
-  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-   name = "Dimitri"
-    instagram = "dimitripuyet"  
-   youtube = "ledims" # or channel/channelname
-#   website = "yourwebsite.com"
-#   email = "youremail@domain.com"
-#   github = "username"
-#   twitter = "username"
-#   linkedin = "username"
-#   snapchat = "username"
-
-#   spotify = "username"
+  # name = "Dimitri"
+  instagram = "dimitripuyet"  
+  youtube = "dimitripuyet" # or channel/channelname
 #   strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
-
+  name = 'Posts'
+  pageRef = '/post'
+  weight = 1
 [[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-
+  name = 'A Propos'
+  pageRef = '/about/index'
+  weight = 100
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
-    weight = 2
-
+  name = 'Préparatifs'
+  pageRef = '/preparatifs'
+  weight = 50
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
-    weight = 1
+  name = 'Santé'
+  pageRef = '/preparatifs/sante'
+  parent = 'Préparatifs'
+  weight = 50
 
-[[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
-    weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
-    weight = 3
-
-[[menu.main]]
-    name = "Tags"
-    url = "tags"
-    weight = 3
