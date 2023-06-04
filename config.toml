@@ -3,12 +3,19 @@ DefaultContentLanguage = "fr"
 title = "Tour des minous"
 theme = "beautifulhugo"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [Params]
   homeTitle = "" # Set a different text for the header on the home page
   # subtitle = "Un soustitre"
   mainSections = ["post"]
   hideAuthor = true
   logo = "img/logo-black.svg" # Expecting square dimensions
+  env = "production"
   # favicon = "img/favicon.ico"
 
 [[Params.bigimg]]
