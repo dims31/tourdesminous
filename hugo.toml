@@ -4,35 +4,23 @@ title = "Tour des minous"
 theme = "beautifulhugo"
 
 [Params]
-  #homeTitle = "Tour des minous" # Set a different text for the header on the home page
+  homeTitle = "" # Set a different text for the header on the home page
   # subtitle = "Un soustitre"
   mainSections = ["post","posts"]
   hideAuthor = true
   logo = "img/logo-black.svg" # Expecting square dimensions
   # favicon = "img/favicon.ico"
-#   commit = false
-#   rss = true
-#   comments = true
-#   readingTime = true
-#   wordCount = true
-#   useHLJS = true
-#   socialShare = true
-#   delayDisqus = true
-#   showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
 [[Params.bigimg]]
  src = "img/home_back.jpg"
- # desc = "Triangle"
 
-
+# Social Part
 [Author]
-  # name = "Dimitri"
   instagram = "dimitripuyet"  
   youtube = "dimitripuyet" # or channel/channelname
-#   strava = "userid"
+  strava = "90502197"
 
+# Menu Part
 [[menu.main]]
   name = 'Posts'
   pageRef = '/post'

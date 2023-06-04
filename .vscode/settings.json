@@ -1,0 +1,39 @@
+{
+    "frontMatter.taxonomy.contentTypes": [
+        {
+            "name": "default",
+            "pageBundle": false,
+            "fields": [
+                {
+                    "title": "title",
+                    "name": "title",
+                    "type": "string"
+                },
+                {
+                    "title": "bigimg",
+                    "name": "bigimg",
+                    "type": "block",
+                    "fields": [
+                        {
+                            "title": "0",
+                            "name": "0",
+                            "type": "fields",
+                            "fields": [
+                                {
+                                    "title": "src",
+                                    "name": "src",
+                                    "type": "string"
+                                },
+                                {
+                                    "title": "desc",
+                                    "name": "desc",
+                                    "type": "string"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

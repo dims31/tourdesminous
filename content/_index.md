@@ -1,6 +1,5 @@
 ---
-title: "TOUR DES MINOUS"
-bigimg: [{src: "/img/home_back.jpg", desc: "nous"}]
+title: TOUR DES MINOUS
 ---
 
 ## Depart dans  
