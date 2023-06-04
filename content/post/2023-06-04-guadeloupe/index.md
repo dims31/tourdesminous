@@ -1,9 +1,7 @@
 ---
 title: "2 semaines en Guadeloupe"
-date: 2023-05-30T17:39:07+02:00
-draft: false
-bigimg: [{src: "nous.jpg", desc: "nous"}]
-description: "Entre eau turquoise et rhum, 2 semaines exceptionneles"
+date: 2023-04-30T17:39:07+02:00
+bigimg: [{src: "nous.jpg"}]
 summary: "Entre eau turquoise et rhum, 2 semaines exceptionneles"
 tags: ["guadeloupe","caraibes"]
 ---
@@ -12,7 +10,13 @@ Nous avons hesité entre plusieurs destinations (Vietnam, Sri Lanka...) mais ce 
 
 # Premiere semaine à grande Terre
 
+Voici un petite liste de ce que nous avons aimé en grande terre
 
+- Tour d'avion depuis l'aerodrome de Saint François
+- Pointe des chateaux
+- Plage des salines
+- L'ambiance des restos de plage du Gosier
+- Plage de Bois Jolan
 
 ## Petit tour d'avion
 

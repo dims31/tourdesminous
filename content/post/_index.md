@@ -1,0 +1,6 @@
+---
+bigimg: [{src: "cover.jpg"}]
+---
+
+
+

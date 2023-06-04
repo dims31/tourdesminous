@@ -20,6 +20,7 @@ disqusShortname = "blog-dimlab-fr"
   logo = "img/logo-black.svg" # Expecting square dimensions
   env = "production"
   comments = true
+  socialShare = false
   # favicon = "img/favicon.ico"
 
 [[Params.bigimg]]
