@@ -13,7 +13,7 @@ disqusShortname = "blog-dimlab-fr"
 
 
 [Params]
-  homeTitle = "" # Set a different text for the header on the home page
+  homeTitle = "Blog des minous" # Set a different text for the header on the home page
   # subtitle = "Un soustitre"
   mainSections = ["post"]
   hideAuthor = true
