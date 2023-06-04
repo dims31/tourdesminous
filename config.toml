@@ -2,6 +2,9 @@ baseURL = 'https://blog.dimlab.fr/'
 DefaultContentLanguage = "fr"
 title = "Tour des minous"
 theme = "beautifulhugo"
+googleAnalytics = "G-DX3YX9CX83"
+enableRobotsTXT = true
+disqusShortname = "blog-dimlab-fr"
 
 [markup]
   [markup.goldmark]
