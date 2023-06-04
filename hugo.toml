@@ -24,15 +24,8 @@ theme = "beautifulhugo"
 
 [[Params.bigimg]]
  src = "img/home_back.jpg"
- desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+ # desc = "Triangle"
+
 
 [Author]
   # name = "Dimitri"
