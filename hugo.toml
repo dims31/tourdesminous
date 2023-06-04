@@ -6,7 +6,7 @@ theme = "beautifulhugo"
 [Params]
   homeTitle = "" # Set a different text for the header on the home page
   # subtitle = "Un soustitre"
-  mainSections = ["post","posts"]
+  mainSections = ["post"]
   hideAuthor = true
   logo = "img/logo-black.svg" # Expecting square dimensions
   # favicon = "img/favicon.ico"
