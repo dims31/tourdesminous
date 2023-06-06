@@ -1,13 +1,13 @@
 ---
 title: "2 semaines en Guadeloupe"
-date: 2023-04-30T17:39:07+02:00
+date: 2023-03-01T17:39:07+02:00
 bigimg: [{src: "cover.jpg"}]
 image: "/post/2023-06-04-guadeloupe/cover.jpg"
-summary: "Entre eau turquoise et rhum, 2 semaines exceptionneles"
+summary: "Entre eau turquoise, cocotier et Ti Punch, 2 semaines exceptionnelles"
 tags: ["guadeloupe","caraibes"]
 ---
-Allez ! Après la grisaille d'hiver et le manque de neige au ski nous nous sommes décidés de partir au soleil cete hiver.  
-Nous avons hesité entre plusieurs destinations (Vietnam, Sri Lanka...) mais ce que nous voulions surtout était de pouvoir profiter d'eaux turquoises et de plages de sable blanc.
+Allez ! Après la grisaille d'hiver nous nous sommes décidés de partir au soleil en Mars pour recharger les batteries.  
+Nous avons hesité entre plusieurs destinations (Vietnam, Sri Lanka...) mais ce que nous voulions surtout, était de pouvoir profiter d'eaux turquoises et de plages de sable blanc.
 
 # Premiere semaine à grande Terre
 
@@ -21,14 +21,14 @@ Voici un petite liste de ce que nous avons aimé en grande terre
 
 ## Petit tour d'avion
 
-Grace à notre pilote privé préféré aka Maxount, nous avons pu voir tout ça du ciel et vraiment ca vaut le coup !
+Grace à notre pilote privé préféré aka Maxount, nous avons pu voir tout cela du ciel et vraiment ça en vaut la peine !
 
 ![Emma contente](1.jpg)
 
-Au decollage on fait toujours une meilleure tete qu'a l'atterissage.
+Au décollage on fait toujours une meilleure tête qu'à l'atterissage.
 
 ![nousdeuxavion](2.jpg)
 
-> Mayday nous avons un problème
+Petit selfie avec le pilote obligé !
 
 ![avionmaxount](4.jpg)

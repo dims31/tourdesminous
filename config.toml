@@ -14,7 +14,7 @@ disqusShortname = "blog-dimlab-fr"
 
 [Params]
   homeTitle = "Tour des minous" # Set a different text for the header on the home page
-  subtitle = "Suivez nous"
+  subtitle = "Suivez nous dans nos aventures"
   mainSections = ["post"]
   hideAuthor = true
   logo = "img/logo-black.svg" # Expecting square dimensions
