@@ -43,7 +43,6 @@ disqusShortname = "blog-dimlab-fr"
   weight = 100
 [[menu.main]]
   name = 'Préparatifs'
-  pageRef = '/preparatifs'
   weight = 50
 [[menu.main]]
   name = 'Destinations'

@@ -2,11 +2,13 @@
 title: TOUR DES MINOUS
 ---
 
-## Depart dans  
+## Départ dans  
 
- {{<counter>}}
+{{<counter>}}
 
-## Ou sommes nous ?
+
+
+## Où sommes nous ?
 
 {{<roundmap latitude = "43.6000" longitude = "1.4333">}}
 
