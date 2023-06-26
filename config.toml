@@ -13,12 +13,14 @@ disqusShortname = "blog-dimlab-fr"
 
 
 [Params]
-  homeTitle = "Blog des minous" # Set a different text for the header on the home page
-  # subtitle = "Un soustitre"
+  homeTitle = "Tour des minous" # Set a different text for the header on the home page
+  subtitle = "Suivez nous dans nos aventures"
   mainSections = ["post"]
   hideAuthor = true
   logo = "img/logo-black.svg" # Expecting square dimensions
   env = "production"
+  comments = true
+  socialShare = false
   # favicon = "img/favicon.ico"
 
 [[Params.bigimg]]
@@ -31,21 +33,22 @@ disqusShortname = "blog-dimlab-fr"
   strava = "90502197"
 
 # Menu Part
-[[menu.main]]
-  name = 'Posts'
-  pageRef = '/post'
-  weight = 1
+# [[menu.main]]
+#   name = 'Posts'
+#   pageRef = '/post'
+#   weight = 1
 [[menu.main]]
   name = 'A Propos'
   pageRef = '/about/index'
   weight = 100
 [[menu.main]]
   name = 'Préparatifs'
-  pageRef = '/preparatifs'
   weight = 50
 [[menu.main]]
-  name = 'Santé'
-  pageRef = '/preparatifs/sante'
-  parent = 'Préparatifs'
+  name = 'Destinations'
+  weight = 20
+  [[menu.main]]
+  name = 'Guadeloupe'
+pageRef = '/tags/guadeloupe'
+  parent = 'Destinations'
   weight = 50
-
